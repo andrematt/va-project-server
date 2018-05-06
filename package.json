@@ -1,0 +1,23 @@
+{
+  "name": "express_rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VA602AA-master/Express_rest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VA602AA-master/Express_rest/issues"
+  },
+  "homepage": "https://github.com/VA602AA-master/Express_rest#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "sqlite3": "^4.0.0"
+  }
+}
